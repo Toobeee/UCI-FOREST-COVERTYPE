@@ -1,4 +1,5 @@
 # UCI-FOREST-COVERTYPE
+Achieved test accuracy of around 94%
 This assignment is designed to help you improve upon a baseline neural network model using practical techniques in architecture design, regularization, optimization, and evaluation.
 TASKS
 3.1 NEURAL NETWORK ARCHITECTURE
